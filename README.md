@@ -294,10 +294,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  : 
  ### In Off State:
-https://user-images.githubusercontent.com/94827772/260048070-9e210e04-7fa4-4a19-a753-cc3918bd770d.jpeg
+![image](https://github.com/saieswar1607/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/93427011/b02f8f5d-54b7-4e44-ace9-8f132277aa51)
 
- ### In On State:
-https://user-images.githubusercontent.com/94827772/260048737-f7969a20-4127-4e3e-ac53-2828f2dc24f0.jpeg
+
+ ### In Running State:
+![image](https://github.com/saieswar1607/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/93427011/d3d8419b-5ca3-47d6-b2de-0a6063241935)
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
